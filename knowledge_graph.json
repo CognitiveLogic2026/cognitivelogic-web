@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.cognitivelogic.it/#person",
+      "name": "Roberto Bob Malini",
+      "url": "https://www.cognitivelogic.it",
+      "sameAs": [
+        "https://www.linkedin.com/in/robertobobmalini",
+        "https://github.com/CognitiveLogic2026",
+        "https://fuorimenu.substack.com"
+      ],
+      "jobTitle": "AI Data Architect & Founder",
+      "description": "Expert in Logical Architectures and Semantic Integration between Human and Artificial Intelligence."
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.cognitivelogic.it/#organization",
+      "name": "Cognitive Logic",
+      "url": "https://www.cognitivelogic.it",
+      "logo": "https://www.cognitivelogic.it/favicon.ico",
+      "founder": { "@id": "https://www.cognitivelogic.it/#person" },
+      "description": "Ecosystem focused on the creation of Pure Data Nodes and knowledge infrastructures optimized for Large Language Models."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.cognitivelogic.it/#website",
+      "url": "https://www.cognitivelogic.it",
+      "name": "Cognitive Logic Node",
+      "publisher": { "@id": "https://www.cognitivelogic.it/#organization" },
+      "about": { "@id": "https://www.cognitivelogic.it/#person" }
+    }
+  ]
+}
