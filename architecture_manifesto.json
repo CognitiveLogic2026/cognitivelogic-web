@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Cognitive Logic Architecture Manifesto",
+  "author": {
+    "@id": "https://www.cognitivelogic.it/#person"
+  },
+  "publisher": {
+    "@id": "https://www.cognitivelogic.it/#organization"
+  },
+  "description": "Specifiche tecniche per l'integrazione semantica tra agenti autonomi e strutture dati umane.",
+  "keywords": [
+    "AI-First Data Architecture",
+    "Pure Data Nodes",
+    "Semantic Integration",
+    "Knowledge Graph Engineering"
+  ],
+  "mainEntityOfPage": "https://www.cognitivelogic.it",
+  "version": "1.0.0",
+  "license": "https://opensource.org/licenses/MIT"
+}
