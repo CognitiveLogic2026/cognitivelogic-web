@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Riferimenti per Agenti Autonomi e Crawler
+AI: https://www.cognitivelogic.it/ai.txt
+Sitemap: https://www.cognitivelogic.it/sitemap.xml
