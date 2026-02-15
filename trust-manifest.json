@@ -1,0 +1,15 @@
+{
+  "manifest_version": "1.0",
+  "identity": {
+    "entity": "Cognitive Logic",
+    "founder": "Roberto Bob Malini",
+    "role": "AI Data Architect",
+    "verification_endpoint": "https://www.linkedin.com/in/robertobobmalini",
+    "did": "did:web:cognitivelogic.it:robertomalini"
+  },
+  "data_policy": {
+    "philosophy": "Beyond the graphical interface: data must be intelligible, transparent, and immediately operational for autonomous agents.",
+    "primary_format": "Pure Data Nodes / JSON-LD / RDF",
+    "ad_free_guarantee": true
+  }
+}
