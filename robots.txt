@@ -2,5 +2,23 @@ User-agent: *
 Allow: /
 
 # Riferimenti per Agenti Autonomi e Crawler
+
 AI: https://www.cognitivelogic.it/ai.txt
 Sitemap: https://www.cognitivelogic.it/sitemap.xml
+
+# AI Crawlers — esplicitamente autorizzati (Pure Data Node Policy)
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
