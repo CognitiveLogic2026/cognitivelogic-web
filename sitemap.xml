@@ -1,9 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://www.cognitivelogic.it/</loc>
-      <lastmod>2026-02-24</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   </urlset>
+
+  <!-- Homepage -->
+
+  <url>
+    <loc>https://www.cognitivelogic.it/</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Contatti -->
+
+  <url>
+    <loc>https://www.cognitivelogic.it/contatti.html</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Knowledge Graph JSON (Open Data) -->
+
+  <url>
+    <loc>https://www.cognitivelogic.it/knowledge_graph.json</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Architecture Manifesto -->
+
+  <url>
+    <loc>https://www.cognitivelogic.it/architecture_manifesto.json</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
